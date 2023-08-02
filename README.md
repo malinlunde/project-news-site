@@ -10,3 +10,12 @@ Describe how you approached to problem, and what tools and techniques you used t
 
 ## View it live
 Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+
+### instruction to push to github 
+git add .   this command pushes all files
+
+git commit -m "commit message"
+this command provide a message for organization
+
+git push origin "name of branch"
+this command pushes local changes to remote repository
