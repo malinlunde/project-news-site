@@ -19,3 +19,5 @@ this command provide a message for organization
 
 git push origin "name of branch"
 this command pushes local changes to remote repository
+  git config --global user.email malinlundhe@hotmail.com
+  git config --global user.name Malin Lunde
